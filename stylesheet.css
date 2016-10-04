@@ -27,7 +27,7 @@ div {
 }
 
 #feed {
-	height: 100%;
-	width: calc(100% - 10px);
+	height: 800px;
+	width: calc(100% - 20px);
 	margin: 10px;
 }
