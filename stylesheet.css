@@ -11,7 +11,7 @@ div {
 }
 
 #center {
-	margin: 5px;
+	margin: 5px 0;
 	width: calc(100% - 460px);
 	background-color: yellow;
 }
