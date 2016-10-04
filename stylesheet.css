@@ -10,23 +10,24 @@ div {
 }
 
 #left {
-	width: 420px;
+	width: calc(25% - 5px);
 	margin: 5px;
 	background-color: blue;
 }
 
 #center {
 	margin: 5px 0;
-	width: calc(100% - 660px);
+	width: calc(50% - 20 px);
 	background-color: yellow;
 }
 
 #right {
 	margin: 5px;
-	width: 220px;
+	width: calc(25% - 5px);
 }
 
 #feed {
 	height: 100%;
-	width: 400px;
+	width: calc(20%);
+	margin: 10px;
 }
