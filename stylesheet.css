@@ -28,6 +28,6 @@ div {
 
 #feed {
 	height: 800px;
-	width: calc(100% - 20px);
+	width: calc(100% - 40px);
 	margin: 10px;
 }
